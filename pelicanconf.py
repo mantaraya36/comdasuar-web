@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Andres Burbano, Andres Cabrera'
 SITENAME = u'Comdasuar MK II'
-SITEURL = ''
+SITEURL = 'http://mantaraya36.github.io/comdasuar-web'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Bogota'
 
 DEFAULT_LANG = u'en'
 
