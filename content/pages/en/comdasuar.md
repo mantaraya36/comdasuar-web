@@ -1,5 +1,4 @@
 Title: Comdasuar
-Slug: about_comdasuar
 Lang: en
 
 # About 
