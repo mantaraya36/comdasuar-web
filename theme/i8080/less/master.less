@@ -1,0 +1,92 @@
+@import "fonts.less";
+
+// --- common
+body{
+  background-color: #232323;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  color: @body-copy;
+  font-size: @epsilon;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: @heading-color;
+  .font-freepixel;
+}
+
+a{
+  color: black;
+  &:hover{
+    color: @hover;
+    text-decoration: none;
+  }
+}
+
+.navbar{
+  h1{
+    color: @heading-color;
+  }
+  margin-left: 20px;
+}
+
+#main-nav{
+  .font-mono;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  li{
+    background-color: #CECECE;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: @black;
+    display: inline;
+    margin-right: 21px;
+    .delta;
+    &:hover{
+      background-color: black;
+    }
+    &.active{
+      background-color: black;
+      a{
+        color: @hover;
+      } 
+    }
+  }
+}
+
+#translations{
+  text-align: right;
+  margin-bottom: 10px;
+  a{
+    background-color: #CECECE;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: @black;
+    &:hover{
+      background-color: black;
+    }
+  } 
+}
+
+#main{
+  .indent{
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  p{
+    .indent;
+  }
+
+  li{
+    .indent;
+  }
+
+  h1,h2,h3,h4,h5,h6{
+    margin-top: 20px;
+  }
+}
