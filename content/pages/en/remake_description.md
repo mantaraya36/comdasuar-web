@@ -1,5 +1,6 @@
 Title: Remake
 Lang: en
+Slug: remake
 
 # Remake description
 

@@ -1,5 +1,6 @@
 Title: Links
 Lang: en
+Slugs: links
 
 # Ausuar's discography
 

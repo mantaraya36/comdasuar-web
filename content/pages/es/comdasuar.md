@@ -1,5 +1,6 @@
 Title: Comdasuar
 Lang: es
+Slug: comdasuar
 
 # Sobre el proyecto
 

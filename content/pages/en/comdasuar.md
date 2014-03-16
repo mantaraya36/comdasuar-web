@@ -1,5 +1,6 @@
 Title: Comdasuar
 Lang: en
+Slug: comdasuar
 
 # About 
 

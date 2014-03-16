@@ -1,5 +1,6 @@
 Title: Links
 Lang: es
+Slug: links
 
 # Discografia de Asuar
 
